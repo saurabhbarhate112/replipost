@@ -1,18 +1,3 @@
-=== RepliPost ===
-
-Contributors: saurabh barhate 
-Tags: duplicate post, clone, copy, post
-Requires at least: 6.6 
-Tested up to: 6.7.2 
-Stable tag: 1.0.0  
-Requires PHP: 5.6.20
-License: GPLv2 or later  
-License URI: https://www.gnu.org/licenses/gpl-2.0.html  
-
-Easily duplicate posts, pages, and custom post types with a single click.
-
-== Description ==
-
 RepliPost is a user-friendly WordPress plugin that allows you to duplicate any post, page, or custom post type with just one click. Perfect for content creators and site administrators who want to save time by reusing existing content structure.
 
 ### Features
